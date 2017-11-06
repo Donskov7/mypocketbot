@@ -7,7 +7,7 @@ Install all requirements
 pip install -r requirements.txt
 ```
 
-Install all mongodb
+Install mongodb
 ```
 homebrew mongodb
 ```
